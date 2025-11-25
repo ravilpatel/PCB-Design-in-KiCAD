@@ -22,7 +22,7 @@ This repository contains the KiCAD 9.0 project files, documentation and assets f
 
 ---
 
-## Repository layout (recommended)
+## Repository layout
 
 ```
 / (repo root)
