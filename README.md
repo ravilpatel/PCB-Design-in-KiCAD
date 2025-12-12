@@ -2,6 +2,12 @@
 
 **Software:** KiCAD 9.0
 
+## Table of Content
+
+- [STM32 - UART, I2C and SWD (From Tutorial)](#stm32---uart-i2c-and-swd-from-tutorial)
+- [Motion Detector using NE555 Timer IC](#motion-detector-using-ne555-timer-ic)
+
+
 ---
 
 ## STM32 - UART, I2C and SWD (From Tutorial)
@@ -27,3 +33,21 @@ Compact 2-layer STM32-based PCB
 **[Project Repo](/STM32-I2C_UART_SWD)**
 
 ---
+
+## Motion Detector using NE555 Timer IC
+
+2-Layer NE555 Timer IC with IR Sensor 
+
+<div align="center">
+<img src="MotionDetector_555Timer/images/PCB_View.png" alt="Top View" style="height: auto; width: 80%;">
+</div>
+
+### Design specifications
+
+* **Integrated Circuit (IC):** NE555 Timer IC
+* **Layers:** 2 (Top / Bottom)
+* **Board dimensions:** 65.0 mm × 32.4 mm
+* **Substrate:** FR4, 1.6 mm thickness
+* **Files included:** KiCAD project files, schematic, PCB layout, Gerber export instructions, BOM
+
+**[Project Repo](/MotionDetector_555Timer)**
